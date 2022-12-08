@@ -1,0 +1,4 @@
+# python3.8
+latex2mathml==3.74.1
+python-docx==4.9.1
+lxml==0.8.11
